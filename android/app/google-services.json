@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "219642629945",
+    "project_id": "fortipass-2fefa",
+    "storage_bucket": "fortipass-2fefa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219642629945:android:33dc37ca38592bd184a2e8",
+        "android_client_info": {
+          "package_name": "com.example.fortipass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGyFqHcHsaWKJNv4uW4kX8boBdc6fCNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219642629945:android:8d2b5d7217ba7e3884a2e8",
+        "android_client_info": {
+          "package_name": "com.example.fortipass1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGyFqHcHsaWKJNv4uW4kX8boBdc6fCNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219642629945:android:70926900f4a476e984a2e8",
+        "android_client_info": {
+          "package_name": "com.example.fortipass_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGyFqHcHsaWKJNv4uW4kX8boBdc6fCNVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
